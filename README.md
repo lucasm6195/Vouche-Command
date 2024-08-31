@@ -1,6 +1,5 @@
-# vouche-comando
-- "compra" , "puntuacion" y "opinion"
-- Configurable id del canal donde quires que se mande el msanej de la valoración.
+- "purchase," "rating," and "review"  
+- Configurable channel ID where you want the review message to be sent.
 
 ![image](https://github.com/mano6195/vouche-comando/assets/120651078/1b497f11-11f7-4386-a715-ac3784a8fd0d)
 
